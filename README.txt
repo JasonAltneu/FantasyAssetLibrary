@@ -10,5 +10,5 @@ CARRIED ITEMS
 - Sword: (.8,4.5,.2) (Lying flat)
 - Spear: (.25,7,.25) (Lying flat)
 - Shield
-- Bow:
-- Arrow
+- Bow: (?,6,?) (Lying Flat)
+- Arrow: (.25,3.5,.25) (Lying Flat)
