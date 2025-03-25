@@ -6,8 +6,8 @@ DUNGEON HALL PIECES
 - Archway/Portcullis/Door: (10,1,10) Replace a wall with one of these pieces 
     - Door itself has a height of 6
 
-CHARACTER
-
+SKELETON:
+- (2,1,5) (Standing Up)
 
 CARRIED ITEMS
 - Torch: (2,2,3.5) (Standing up)
